@@ -1,4 +1,4 @@
-# Trip Orchestrator — Alexa+ Agent Skill (Hackathon Project)
+# Trip Orchestrator/ Alexa Trip Planner — Alexa+ Agent Skill (Hackathon Project)
 
 An Alexa+ Agent Skill that orchestrates your trip planning end-to-end — turning a vague goal into flights, stays, and a day-by-day itinerary through natural conversation.
 
